@@ -1,4 +1,4 @@
-package com.jyx.algorithm.array;
+package com.jyx.algorithm.old.array;
 
 import java.util.ArrayList;
 import java.util.List;

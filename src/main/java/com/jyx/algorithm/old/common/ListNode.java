@@ -1,4 +1,4 @@
-package com.jyx.algorithm.common;
+package com.jyx.algorithm.old.common;
 
 public class ListNode {
     public int val;

@@ -1,4 +1,4 @@
-package com.jyx.algorithm.array;
+package com.jyx.algorithm.old.array;
 
 import java.util.HashMap;
 import java.util.Map;

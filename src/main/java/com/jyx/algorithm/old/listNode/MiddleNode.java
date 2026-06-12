@@ -1,8 +1,6 @@
-package com.jyx.algorithm.listNode;
+package com.jyx.algorithm.old.listNode;
 
-import com.jyx.algorithm.common.ListNode;
-
-import java.util.List;
+import com.jyx.algorithm.old.common.ListNode;
 
 /**
  * https://leetcode-cn.com/problems/middle-of-the-linked-list/

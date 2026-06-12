@@ -1,6 +1,6 @@
-package com.jyx.algorithm.listNode;
+package com.jyx.algorithm.old.listNode;
 
-import com.jyx.algorithm.common.ListNode;
+import com.jyx.algorithm.old.common.ListNode;
 
 /**
  * https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/

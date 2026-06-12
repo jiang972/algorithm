@@ -1,4 +1,4 @@
-package com.jyx.algorithm.search;
+package com.jyx.algorithm.old.search;
 
 /**
  * https://leetcode-cn.com/problems/binary-search/

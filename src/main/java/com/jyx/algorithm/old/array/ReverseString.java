@@ -1,4 +1,4 @@
-package com.jyx.algorithm.array;
+package com.jyx.algorithm.old.array;
 
 /**
  * https://leetcode-cn.com/problems/reverse-string/solution/
