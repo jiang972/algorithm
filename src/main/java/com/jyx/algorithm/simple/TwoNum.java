@@ -1,9 +1,9 @@
-package com.jyx.algorithm.medium;
+package com.jyx.algorithm.simple;
 
 import java.util.Arrays;
 
 /**
- * @Description
+ * @Description 两数之和
  * @Classname TwoNum
  * @Author yuxin.jiang
  * @Date 2026/6/12 16:38
